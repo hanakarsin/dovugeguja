@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sukezutubi.vercel.app/sitemap.xml
